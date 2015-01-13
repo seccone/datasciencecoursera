@@ -1,2 +1,2 @@
 # datasciencecoursera
-Hi, I'm Ricardo Freire, I'm from Brazil
+# Hi, I am Ricardo Freire from Brazil
